@@ -1,18 +1,18 @@
-  ![1](https://user-images.githubusercontent.com/62019551/118895507-f7065480-b90e-11eb-8531-a45e748d6ab1.jpg)
+ 
 
 
 
 
-### <div align="center">I'm Anita Kahenya, a full-time full-stack developer  🚀👩‍💻</div>  
+### <div align="center">I'm Felix Kiprotich, a full-time full-stack developer  🚀👩‍💻</div>  
   
 
 - 🔭 I’m currently working to take my frontend skills to the next level.  
   
 
-- 🌱 I’m currently learning Typescript React and growing my DevRel knowledge base   
+- 🌱 I’m currently learning Typescript React,Next.js and growing my software development knowledge base  
   
 
-- ❓ Ask me about anything related to the DJANGO REST stack and related technologies  
+- ❓ Ask me about anything related to the DJANGO REST stack, Next.js and related technologies  
   
 
 - ⚡ Fun fact: I use spaces over tabs and smiling is my weakness  
@@ -35,14 +35,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />   
 </div>
 
 </td><td valign="top" width="33%">
