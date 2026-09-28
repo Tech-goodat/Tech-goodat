@@ -1,151 +1,116 @@
-# Hey, I'm Felix 👋🏽
+<div align="center">
+<img src="https://github.com/Tech-goodat/Tech-goodat/blob/main/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2010_27_10%20AM.png" align="center" style="width: 100%" />
+</div>  
+  
 
-### Software Engineer | Backend Systems | AI-Driven Applications | IoT
+### <div align="center">I'm Felix, a Software Engineer building full-stack applications, intelligent backend systems, and real-time IoT solutions 👨🏽‍💻 passionate about turning real-world problems into practical software 🚀</div>  
+  
 
-I'm a Software Engineer from Nairobi, Kenya, passionate about building **reliable software systems that solve real-world problems**.
+- 🔭 I’m currently working on [MajiSmart](https://majismart-jlut.vercel.app/) — a smart water management platform for real-time meter monitoring, consumption insights, and intelligent water management 💧  
+  
 
-My work sits at the intersection of **backend engineering, intelligent applications, real-time data, and IoT**. I enjoy taking an idea, understanding the underlying problem, and turning it into a working product.
+- 🌱 I’m currently learning Applied AI, Machine Learning, and advanced backend & cloud technologies 🤖☁️  
+  
 
-Currently, I'm deepening my expertise in **Python, Django, distributed systems, real-time architectures, and applied AI**.
+- ❓ Ask me about ⚙️ Distributed Systems, 📡 IoT, 🐍 Django REST Framework, 🔄 Real-Time Applications, and 🏗️ Backend Architecture  
+  
 
----
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-## 🚀 What I Build
+<br/>  
 
-* ⚙️ **Backend systems & APIs** — Python, Django, Django REST Framework
-* 📡 **Real-time applications** — WebSockets, Redis, MQTT
-* 🤖 **AI-powered applications** — intelligent automation, anomaly detection, recommendations
-* 🌐 **Full-stack applications** — Next.js, React, TypeScript
-* 📊 **Data & telemetry systems** — monitoring, dashboards, operational analytics
-* 💧 **IoT applications** — connecting physical-world telemetry with useful software
 
----
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-## 🛠️ Tech Stack
 
-### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+</div>
 
-### Backend
+</td><td valign="top" width="33%">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
 
-### Real-Time & IoT
+</td><td valign="top" width="33%">
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat\&logo=mqtt\&logoColor=white)
 
-### Tools & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+</div>
 
----
+</td></tr></table>  
 
-## 🧠 Featured Projects
+<br/>  
 
-### 💧 MajiSmart — Intelligent Water Management
 
-An IoT-focused water management platform designed to connect **smart water meters, real-time telemetry, valve control, and intelligent consumption insights**.
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Tech-goodat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Tech_GoodAt" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-**Highlights:**
+<br/>  
 
-* Real-time meter telemetry
-* MQTT-based communication
-* Redis & WebSocket architecture
-* Remote valve control
-* Management/client access control
-* Water consumption monitoring
-* Foundation for AI-driven usage optimization
 
-**Stack:** `Next.js` `Django REST Framework` `Python` `MQTT` `Redis` `WebSockets` `PostgreSQL`
+## Github Stats  
+  
 
----
+<br/>  
 
-### 🚛 Fleet Management Platform
 
-A fleet management Progressive Web App built to help transport businesses monitor **vehicle operations, finances, and profitability**.
+## Recent Blog Posts  
+  
 
-**Highlights:**
+<br/>  
 
-* Fleet and vehicle management
-* Operational dashboards
-* Revenue and expense tracking
-* Profit/loss monitoring
-* Authentication and role-based access
-* PWA support
+  
 
-**Stack:** `Next.js` `Django REST Framework` `PostgreSQL` `TypeScript`
+<br/>  
 
----
+  
 
-### 🛒 NextDoor Marketplace
+<br/>  
 
-A full-stack marketplace application focused on connecting buyers and sellers through a modern web platform.
+<div align="center">
+            <a href="https://paypal.me/felixkiprotich2000@gmail.com" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
-**Stack:** `Next.js` `Django REST Framework` `PostgreSQL` `TypeScript`
-
----
-
-## 🎯 Currently Learning
-
-I'm currently focused on becoming stronger in:
-
-* 🤖 Applied AI & Machine Learning
-* 🧠 Intelligent software systems
-* ⚙️ Backend architecture & system design
-* 📡 Event-driven and real-time systems
-* 📊 Data engineering & analytics
-* ☁️ Cloud infrastructure and deployment
-
-> **My goal is not simply to use AI — it's to understand how intelligent systems can be engineered into real products.**
-
----
-
-## 💼 Open to Opportunities
-
-I'm interested in opportunities involving:
-
-**Software Engineering · Backend Engineering · Full-Stack Engineering · AI Engineering · IoT · Real-Time Systems**
-
-I'm especially interested in working on products where **software, data, and intelligent automation come together to solve meaningful problems.**
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Tech-goodat)
-
----
-
-### ⚡ A little about how I work
-
-I like building things from the ground up, understanding **why systems work**, and continuously improving my engineering fundamentals.
-
-I'm particularly interested in the space where:
-
-**Software Engineering × Data × AI × IoT**
-
-meet.
-
----
-
-*Building useful systems, one problem at a time.*
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
